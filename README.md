@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://www.linkedin.com/in/orhan-aydin/" title="MyLinkedin"><img src="https://www.canva.com/design/DAGTd-YNAvY/MRirZ3pdJJl6tG8Qrv648Q/watch" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+<a href="https://www.linkedin.com/in/orhan-aydin/" title="MyLinkedin"><img src="https://r.resimlink.com/qDp2Gi.gif" title="MyLinkedin" alt="MyLinkedin"></a>
 </div>
 
 
