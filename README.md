@@ -1,7 +1,6 @@
 <div align="center">
-<a href="https://www.linkedin.com/in/orhan-aydin/" title="MyLinkedin"><img src="https://r.resimlink.com/qDp2Gi.gif" title="MyLinkedin" alt="MyLinkedin"></a>
+<a href="https://www.linkedin.com/in/orhan-aydin/" title="MyLinkedin"><img height="400" src="https://r.resimlink.com/qDp2Gi.gif" title="MyLinkedin" alt="MyLinkedin"></a>
 </div>
-
 
 
 <!-- <h2 align="center">Hi 👋! My name is Can and I'm a Front-end Developer with React skills</h2> -->
