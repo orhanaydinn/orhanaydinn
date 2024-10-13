@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://www.linkedin.com/in/orhan-aydin/" title="MyLinkedin"><img src="![Black and Pink Minimalist Welcome To My Channel YouTube Video](https://github.com/user-attachments/assets/8ba3a7cf-e058-4998-8c90-9e8b560a809b)Q
+<a href="https://www.linkedin.com/in/orhan-aydin/" title="MyLinkedin"><img src="![Black and Pink Minimalist Welcome To My Channel YouTube Video](https://github.com/user-attachments/assets/8ba3a7cf-e058-4998-8c90-9e8b560a809b)
 " title="MyLinkedin" alt="MyLinkedin"></a>
 </div>
 
