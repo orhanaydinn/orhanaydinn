@@ -39,9 +39,9 @@
 
 
  
-  Project Name      |      
-:-------------------------|
-[Deneme] <br> </br> <h3>[Repo] ReactJS, Redux Toolkit, Firebase, TypeScript, Styled Components ![chat](https://user-images.githubusercontent.com/11324886/210832985-47112059-3770-404a-b350-d58923b7281f.gif) </h3> 
+  Project Name      |        Project Name      |    
+:-------------------------|-------------------------
+[Deneme] <br> </br> <h3>[Repo] ReactJS, Redux Toolkit, Firebase, TypeScript, Styled Components ![chat](https://user-images.githubusercontent.com/11324886/210832985-47112059-3770-404a-b350-d58923b7281f.gif) </h3> | [Deneme] <br> </br> <h3>[Repo] ReactJS, Redux Toolkit, Firebase, TypeScript, Styled Components ![chat](https://user-images.githubusercontent.com/11324886/210832985-47112059-3770-404a-b350-d58923b7281f.gif) 
 
 
 <br>
