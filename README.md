@@ -113,6 +113,11 @@
 <img src="https://github-profile-trophy.vercel.app/?username=orhanaydinn&theme=react"/>
 </div>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=orhanaydinn&&style=flat-square" align="center" />
+</div>  
+  
+
 ###
 
 <!-- ## Recent Blog Posts -->
@@ -120,7 +125,7 @@
 <!-- If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. -->
 <!-- BLOG-POST-LIST:END -->  
 
-<h2 align="center">Code Along Music</h2>
+<!-- <h2 align="center">Code Along Music</h2> -->  
 
 ### 
 
@@ -128,10 +133,7 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=orhanaydinn&&style=flat-square" align="center" />
-</div>  
-  
+
 
 
 
