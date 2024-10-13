@@ -124,7 +124,7 @@
 
 ### 
 
-<div align="center"><img src="https://open.spotify.com/playlist/4wKjMg23psubPqtwiRJBX9?si=83c96444c8fd4e6e&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
+<div align="center"><iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4wKjMg23psubPqtwiRJBX9?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <br/>  
 
