@@ -1,8 +1,8 @@
 <div align="center">
-![ReadMe](https://github.com/user-attachments/assets/fa2fab49-c7ad-483b-951c-b1b7d74c9a5c)
+
 </div>
 
-
+![ReadMe](https://github.com/user-attachments/assets/fa2fab49-c7ad-483b-951c-b1b7d74c9a5c)
 
 <!-- <h2 align="center">Hi 👋! My name is Can and I'm a Front-end Developer with React skills</h2> -->
 <!--
