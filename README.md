@@ -124,7 +124,7 @@
 
 ### 
 
-<div align="center"><img src="https://open.spotify.com/embed/playlist/17edX5Pojk0DJ1jbZe3fOZ?utm_source=generator&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+<div align="center"><img src="https://open.spotify.com/embed/playlist/4wKjMg23psubPqtwiRJBX9?utm_source=generator&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 <br/>  
 
@@ -132,6 +132,8 @@
 <img src="https://komarev.com/ghpvc/?username=orhanaydinn&&style=flat-square" align="center" />
 </div>  
   
+
+
 
 <br/>
 
