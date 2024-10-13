@@ -39,8 +39,8 @@
 
 
  
-  Project Name      |Libraries and Technologies I use       
-:-------------------------|-------------------------
+  Project Name      |      
+:-------------------------|
 [Deneme] <h3>[Repo]| ReactJS, Redux Toolkit, Firebase, TypeScript, Styled Components |![chat](https://user-images.githubusercontent.com/11324886/210832985-47112059-3770-404a-b350-d58923b7281f.gif) </h3> 
 
 
