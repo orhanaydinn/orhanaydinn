@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://www.linkedin.com/in/orhan-aydin/" title="MyLinkedin"><img src="![ReadMe](https://github.com/user-attachments/assets/8c8923b1-404f-4e10-8946-3952d5c11e69)" title="MyLinkedin" alt="MyLinkedin"></a>
+<a src="![ReadMe](https://github.com/user-attachments/assets/fa2fab49-c7ad-483b-951c-b1b7d74c9a5c)"></a>
 </div>
 
 
