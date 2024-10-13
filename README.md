@@ -2,7 +2,7 @@
 
 </div>
 
-![ReadMe](https://github.com/user-attachments/assets/fa2fab49-c7ad-483b-951c-b1b7d74c9a5c)
+![ReadMe](https://github.com/user-attachments/assets/485dd421-3f84-48ef-bb5d-e78ad4c16cc4)
 
 <!-- <h2 align="center">Hi 👋! My name is Can and I'm a Front-end Developer with React skills</h2> -->
 <!--
