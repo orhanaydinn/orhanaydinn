@@ -127,30 +127,3 @@
 
 <!-- <h2 align="center">Code Along Music</h2> -->  
 
-### 
-
-<!-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4wKjMg23psubPqtwiRJBX9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
-
-<br/>  
-
-
-
-
-
-<br/>
-
-###
-
-<!-- <div align="center"> 
-            <a href="https://paypal.me/can.ocalir@gmail.com" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/nefraim" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>-->
