@@ -113,6 +113,11 @@
 <img src="https://github-profile-trophy.vercel.app/?username=orhanaydinn&theme=react"/>
 </div>
 
+<br>
+
+</br>
+
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=orhanaydinn&&style=flat-square" align="center" />
 </div>  
