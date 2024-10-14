@@ -35,11 +35,8 @@
 
 ###
 
- | | 
-:-------------------------|-------------------------
-|Project1|Project2
-|Project1|Project2
-|Project1|Project2
+  Project Demo       |Libraries and Technologies I use     |Project Preview   
+:-------------------------|-------------------------|-------------------------
 
  
 
