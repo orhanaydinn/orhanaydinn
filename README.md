@@ -35,8 +35,10 @@
 
 ###
 
-  Project Demo       |Libraries and Technologies I use     |Project Preview   
-:-------------------------|-------------------------|-------------------------
+ [React Typescript Chat App](https://dev-chat-rosy.v
+Toolkit, Firebase, TypeScript, Styled Components !
+210832985-47112059-3770-404a-b350-d58923b7281f.gif)    |Libraries and Technologies I use|
+:-------------------------|-------------------------|
 
  
 
