@@ -35,12 +35,13 @@
 
 ###
 
- [React Typescript Chat App](https://dev-chat-rosy.v
-Toolkit, Firebase, TypeScript, Styled Components !
-210832985-47112059-3770-404a-b350-d58923b7281f.gif)    |Libraries and Technologies I use|
+
+  Project |Libraries and Technologies I use|
 :-------------------------|-------------------------|
 
- 
+[React Typescript Chat App](https://dev-chat-rosy.v
+Toolkit, Firebase, TypeScript, Styled Components !
+210832985-47112059-3770-404a-b350-d58923b7281f.gif) 
 
 
 <br>
