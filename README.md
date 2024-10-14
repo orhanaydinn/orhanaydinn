@@ -36,13 +36,15 @@
 ###
 
 
-  Project |Libraries and Technologies I use|
-:-------------------------|-------------------------|
-[React Typescript Chat App](https://dev-chat-rosy.vercel.app/) <h3>[Repo](https://github.com/canocalir/dev-chat)</h3> ReactJS, Redux 
-Toolkit, Firebase, TypeScript, Styled Components ![chat](https://user-images.githubusercontent.com/11324886/
-210832985-47112059-3770-404a-b350-d58923b7281f.gif) | [React Typescript Chat App](https://dev-chat-rosy.vercel.app/) <h3>[Repo](https://github.com/canocalir/dev-chat)</h3> ReactJS, Redux 
-Toolkit, Firebase, TypeScript, Styled Components ![chat](https://user-images.githubusercontent.com/11324886/
-210832985-47112059-3770-404a-b350-d58923b7281f.gif) 
+| Başlık 1  | Başlık 2  | Başlık 3  |
+| --------- | --------- | --------- |
+| Satır 1, Sütun 1 | Satır 1, Sütun 2 | Satır 1, Sütun 3 |
+
+
+
+
+
+
 
 
 
