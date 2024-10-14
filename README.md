@@ -38,7 +38,7 @@
 
 | Project Name 1  | Project Name 2  |
 | --------- | --------- |
-![chat](https://user-images.githubusercontent.com/11324886/210832985-47112059-3770-404a-b350-d58923b7281f.gif) <h2 align="center"> ReactJS, Redux, Toolkit, Firebase, TypeScript, Styled Components <h2> | Satır 1, Sütun 2 |
+![chat](https://user-images.githubusercontent.com/11324886/210832985-47112059-3770-404a-b350-d58923b7281f.gif) <h4 align="center"> ReactJS, Redux, Toolkit, Firebase, TypeScript, Styled Components <h4> | Satır 1, Sütun 2 |
 
 
 
