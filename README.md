@@ -4,12 +4,7 @@
 
 ![ReadMe](https://github.com/user-attachments/assets/485dd421-3f84-48ef-bb5d-e78ad4c16cc4)
 
-<!-- <h2 align="center">Hi 👋! My name is Can and I'm a Front-end Developer with React skills</h2> -->
-<!--
-<div align="center">
-<img src="https://github.com/canocalir/canocalir/blob/output/github-contribution-grid-snake.gif"/>
-</div>
--->
+
 
 ### 
 
@@ -103,16 +98,12 @@
    <a href="https://www.linkedin.com/in/orhan-aydin/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <!-- <a href="https://discord.com/users/532938192291364887" target="_blank"> 
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>-->
+
  
   <a href="orhanaydinmechatronic@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <!-- <a href="https://stackoverflow.com/users/10219474/can-berk-ocalir" target="_blank"> 
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>-->
+
 </div>
 
 ###
@@ -138,10 +129,4 @@
 
 ###
 
-<!-- ## Recent Blog Posts -->
-<!-- BLOG-POST-LIST:START -->  
-<!-- If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. -->
-<!-- BLOG-POST-LIST:END -->  
-
-<!-- <h2 align="center">Code Along Music</h2> -->  
 
