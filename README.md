@@ -38,13 +38,14 @@
 
 | Project Name 1  | Project Name 2  |
 | --------- | --------- |
-![chat](https://user-images.githubusercontent.com/11324886/210832985-47112059-3770-404a-b350-d58923b7281f.gif) <h3 align="center"> ReactJS, Redux, Toolkit, Firebase, TypeScript, Styled Components <h3> <h4>Detail about Your Project</h4>| Satır 1, Sütun 2 |
+![chat](https://user-images.githubusercontent.com/11324886/210832985-47112059-3770-404a-b350-d58923b7281f.gif) <h3 align="center"> ReactJS, Redux, Toolkit, Firebase, TypeScript, Styled Components <h3> <h4>Detail about Your Project</h4>| ![chat](https://user-images.githubusercontent.com/11324886/210832985-47112059-3770-404a-b350-d58923b7281f.gif) <h3 align="center"> 
+ReactJS, Redux, Toolkit, Firebase, TypeScript, Styled Components <h3> <h4>Detail about Your Project</h4>|
 
 
 
-[React Typescript Chat App](https://dev-chat-rosy.vercel.app/) <h3>[Repo](https://github.com/canocalir/dev-chat)</h3> | ReactJS, Redux 
-Toolkit, Firebase, TypeScript, Styled Components |![chat](https://user-images.githubusercontent.com/11324886/
-210832985-47112059-3770-404a-b350-d58923b7281f.gif)
+
+
+
 
 
 
