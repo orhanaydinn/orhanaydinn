@@ -19,14 +19,14 @@
 
 ###
 
-<!--
+
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&username=canocalir" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=true&username=canocalir" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&username=orhanaydinn" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=true&username=orhanaydinn" height="150" alt="languages graph"  />
 </div>
--->
+
 
 ###
 <br>
@@ -35,7 +35,7 @@
 
 ###
 
-
+<!--
 | Project Name 1  | Project Name 2  |
 | --------- | --------- |
 ![chat](https://user-images.githubusercontent.com/11324886/210832985-47112059-3770-404a-b350-d58923b7281f.gif) <h3 align="center"> ReactJS, Redux, Toolkit, Firebase, TypeScript, Styled Components <h3> <h4>Detail about Your Project</h4> |![chat](https://user-images.githubusercontent.com/11324886/210832985-47112059-3770-404a-b350-d58923b7281f.gif) <h3 align="center"> ReactJS, Redux, Toolkit, Firebase, TypeScript, Styled Components <h3> <h4>Detail about Your Project</h4>|
@@ -44,7 +44,7 @@
 | --------- | 
 ![chat](https://user-images.githubusercontent.com/11324886/210832985-47112059-3770-404a-b350-d58923b7281f.gif) <h3 align="center"> ReactJS, Redux, Toolkit, Firebase, TypeScript, Styled Components <h3> <h4>Detail about Your Project</h4> | 
 
-
+-->
 
 
 
