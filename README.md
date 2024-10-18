@@ -33,13 +33,12 @@
 ###
 
 
-| <a href="https://github.com/orhanaydinn/Exxen_project.git">Exxen Project</a> |
-| --------- |
-![Exxen_Project](https://github.com/user-attachments/assets/8da89916-bf86-426c-b123-0a17364022af)<h3 align="center"> HTML, CSS <h3> <h4> </h4> |
-<!--
+
+
+<
 | <a href="https://github.com/orhanaydinn/Exxen_project.git">Exxen Project</a> | Project Name 2  |
- --------- | 
-![Exxen_Project](https://github.com/user-attachments/assets/8da89916-bf86-426c-b123-0a17364022af)<h3 align="center"> HTML, CSS <h3> <h4> </h4> |<!-- ![chat](https://user-images.githubusercontent.com/11324886/210832985-47112059-3770-404a-b350-d58923b7281f.gif) <h3 align="center"> ReactJS, Redux, Toolkit, Firebase, TypeScript, Styled Components <h3> <h4>Detail about Your Project</h4> |-->
+| --------- | --------- | 
+![Exxen_Project](https://github.com/user-attachments/assets/8da89916-bf86-426c-b123-0a17364022af)<h3 align="center"> HTML, CSS <h3> <h4> </h4> | ![chat](https://user-images.githubusercontent.com/11324886/210832985-47112059-3770-404a-b350-d58923b7281f.gif) <h3 align="center"> ReactJS, Redux, Toolkit, Firebase, TypeScript, Styled Components <h3> <h4>Detail about Your Project</h4> |
 <!--
 | Project Name 3  | 
 | --------- | 
