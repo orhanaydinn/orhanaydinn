@@ -37,6 +37,11 @@
 ![Exxen_Project](https://github.com/user-attachments/assets/006f9785-261f-48fb-8cfb-9a24edaac884)<h3 align="center"> HTML, CSS <h3> |
 
 
+Project Demo       |Libraries and Technologies I use     |Project Preview   
+:-------------------------|-------------------------|-------------------------
+![Exxen_Project](https://github.com/user-attachments/assets/006f9785-261f-48fb-8cfb-9a24edaac884) <h3>[Repo](https://github.com/canocalir/dev-chat)</h3> | ReactJS, Redux Toolkit, Firebase, TypeScript, Styled Components |![chat](https://user-images.githubusercontent.com/11324886/210832985-47112059-3770-404a-b350-d58923b7281f.gif)
+
+
 <!--
 | <a href="https://github.com/orhanaydinn/Exxen_project.git">Exxen Project</a> | Project Name 2  |
 | --------- | --------- |
