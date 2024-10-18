@@ -38,7 +38,8 @@
 
 | <a href="https://github.com/orhanaydinn/Exxen_project.git">Exxen Project</a> | Project Name 2  |
 | --------- | --------- |
-![Exxen Project](https://github.com/user-attachments/assets/991a8886-9982-4dbe-b279-b69e87f2b6b9)<h3 align="center"> HTML, CSS <h3> <h4> </h4> | ![Exxen Project](https://github.com/user-attachments/assets/991a8886-9982-4dbe-b279-b69e87f2b6b9)<h3 align="center"> HTML, CSS <h3> <h4> </h4> |
+![Exxen_Project](https://github.com/user-attachments/assets/006f9785-261f-48fb-8cfb-9a24edaac884)<h3 align="center"> HTML, CSS <h3> <h4> </h4> | ![Exxen_Project](https://github.com/user-attachments/assets/006f9785-261f-48fb-8cfb-9a24edaac884)
+<h3 align="center"> HTML, CSS <h3> <h4> </h4> |
 <!--
 | Project Name 3  | 
 | --------- | 
