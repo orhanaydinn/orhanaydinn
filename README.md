@@ -37,13 +37,10 @@
 
 |<a href="https://github.com/orhanaydinn/Exxen_project.git"> EXXEN PROJECT </a>|
 | --------- | 
+  <div align="center">
 
-  <div align="center"> 
-  
-  ![gif-1](https://github.com/user-attachments/assets/0469c798-35b4-4abf-b384-84971e8943fb) </div> 
-  
-  <h4 align="center">This project created with using HTML and CSS. This is an example for digital streaming platform which is included 2 different languages in interface. </h4>
-
+  ![gif-1](https://github.com/user-attachments/assets/0469c798-35b4-4abf-b384-84971e8943fb)<h4>This project created with using HTML and CSS. This is an example for digital streaming platform which is included 2 different languages in interface. </h4>|
+  </div>
 </div>
 
 
