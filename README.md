@@ -33,13 +33,14 @@
 ###
 
 
-<div align="center">
-
-|<a href="https://github.com/orhanaydinn/Exxen_project.git"> EXXEN PROJECT </a>|
-| --------- | 
-![gif-1](https://github.com/user-attachments/assets/0469c798-35b4-4abf-b384-84971e8943fb)<h4>This project created with using HTML and CSS. This is an example for digital streaming platform which is included 2 different languages in interface. </h4>|
-
+<div style="text-align: center;">
+    <a href="https://github.com/orhanaydinn/Exxen_project.git"> EXXEN PROJECT </a>
+    <br>
+    <img src="https://github.com/user-attachments/assets/0469c798-35b4-4abf-b384-84971e8943fb" alt="gif-1">
+    <h4>This project was created using HTML and CSS. It is an example of a digital streaming platform which includes two different languages in the interface.</h4>
 </div>
+
+
 
 
 <!--
