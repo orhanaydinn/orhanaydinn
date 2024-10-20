@@ -37,7 +37,7 @@
 
 |<h2> <a href="https://github.com/orhanaydinn/Exxen_project.git">Exxen Project</a> </h2> |<h2> Project Name 2  </h2>|
 | --------- | --------- |
-[gif-1](https://github.com/user-attachments/assets/0469c798-35b4-4abf-b384-84971e8943fb)<h3 align="center"> HTML, CSS <h3> |[gif-1](https://github.com/user-attachments/assets/0469c798-35b4-4abf-b384-84971e8943fb)<h3 align="center"> HTML, CSS <h3>|
+![gif-1](https://github.com/user-attachments/assets/0469c798-35b4-4abf-b384-84971e8943fb)<h3 align="center"> HTML, CSS <h3> |![gif-1](https://github.com/user-attachments/assets/0469c798-35b4-4abf-b384-84971e8943fb)<h3 align="center"> HTML, CSS <h3>|
 
 |<h2> <a href="https://github.com/orhanaydinn/Exxen_project.git"> Exxen Project </a> </h2> |
 | --------- | 
