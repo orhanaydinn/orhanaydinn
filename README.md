@@ -35,42 +35,21 @@
 
 <div align="center">
 
+<!--
 |<h2> <a href="https://github.com/orhanaydinn/Exxen_project.git">Exxen Project</a> </h2> |<h2> Project Name 2  </h2>|
 | --------- | --------- |
 ![gif-1](https://github.com/user-attachments/assets/0469c798-35b4-4abf-b384-84971e8943fb)<h3 align="center"> HTML, CSS <h3> |![gif-1](https://github.com/user-attachments/assets/0469c798-35b4-4abf-b384-84971e8943fb)<h3 align="center"> HTML, CSS <h3>|
+-->
 
-|<h2> <a href="https://github.com/orhanaydinn/Exxen_project.git"> Exxen Project </a> </h2> |
+|<a href="https://github.com/orhanaydinn/Exxen_project.git"> Exxen Project </a>|
 | --------- | 
-![gif-1](https://github.com/user-attachments/assets/0469c798-35b4-4abf-b384-84971e8943fb)<h3 align="center"> HTML, CSS <h3> |
+![gif-1](https://github.com/user-attachments/assets/0469c798-35b4-4abf-b384-84971e8943fb)<h3 align="center"> HTML, CSS <h3> <h4>This project </h4> |
 
 </div>
 
-<!--
 
 
 
-
-| <a href="https://github.com/orhanaydinn/Exxen_project.git">Exxen Project</a> | Project Name 2  |
-| --------- | --------- |
-[gif-1](https://github.com/user-attachments/assets/0469c798-35b4-4abf-b384-84971e8943fb)<h3 align="center"> HTML, CSS <h3> |[gif-1](https://github.com/user-attachments/assets/0469c798-35b4-4abf-b384-84971e8943fb)<h3 align="center"> HTML, CSS <h3>|
-
-| <a href="https://github.com/orhanaydinn/Exxen_project.git">Exxen Project</a> | Project Name 2  |
-| --------- | --------- |
-![Exxen_Project](https://github.com/user-attachments/assets/006f9785-261f-48fb-8cfb-9a24edaac884)<h3 align="center"> HTML, CSS <h3> |![Exxen_Project](https://github.com/user-attachments/assets/006f9785-261f-48fb-8cfb-9a24edaac884)<h3 align="center"> HTML, CSS <h3>|
-
-| <a href="https://github.com/orhanaydinn/Exxen_project.git">Exxen Project</a> | Project Name 2  |
-| --------- | --------- |
-![Exxen_Project](https://github.com/user-attachments/assets/006f9785-261f-48fb-8cfb-9a24edaac884)<h3 align="center"> HTML, CSS <h3> |![Exxen_Project](https://github.com/user-attachments/assets/006f9785-261f-48fb-8cfb-9a24edaac884)<h3 align="center"> HTML, CSS <h3>|
-
-| <a href="https://github.com/orhanaydinn/Exxen_project.git">Exxen Project</a> | Project Name 2  |
-| --------- | --------- |
-![Exxen_Project](https://github.com/user-attachments/assets/006f9785-261f-48fb-8cfb-9a24edaac884)<h3 align="center"> HTML, CSS <h3> |![Exxen_Project](https://github.com/user-attachments/assets/006f9785-261f-48fb-8cfb-9a24edaac884)<h3 align="center"> HTML, CSS <h3>|
-
-
-
-| Project Name 3  | 
-| --------- | 
-![chat](https://user-images.githubusercontent.com/11324886/210832985-47112059-3770-404a-b350-d58923b7281f.gif) <h3 align="center"> ReactJS, Redux, Toolkit, Firebase, TypeScript, Styled Components <h3> <h4>Detail about Your Project</h4> | -->
 
 
 
