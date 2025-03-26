@@ -36,6 +36,7 @@
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
+[Exxen Project](https://github.com/orhanaydinn/computer_vision/tree/7ae1a9770a8e43e11a238192c71c4a4a9bbedbab/4_openCV_object_tracking/2_other_tracking_algorithms) <h3>[Repo](https://github.com/orhanaydinn/computer_vision/tree/7ae1a9770a8e43e11a238192c71c4a4a9bbedbab/4_openCV_object_tracking/2_other_tracking_algorithms)</h3> | openCV Python |![Image](https://github.com/user-attachments/assets/48f846b8-5f45-4135-9312-d049d7fcebea)
 [Exxen Project](https://github.com/orhanaydinn/Exxen_project.git) <h3>[Repo](https://github.com/orhanaydinn/Exxen_project.git")</h3> | HTML CSS |![Image](https://github.com/user-attachments/assets/fabac975-af35-44e0-a76b-5a4e5df479bd)
 
 
