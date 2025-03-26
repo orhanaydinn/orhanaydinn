@@ -33,6 +33,33 @@
 
 
 <div align="center">
+
+### 🔹 Exxen Project
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fabac975-af35-44e0-a76b-5a4e5df479bd" width="600" alt="Exxen Project" />
+</div>
+- **Açıklama:** Dijital yayın platformu arayüzü örneği.
+- **Teknolojiler:** HTML, CSS
+- **Bağlantı:** [GitHub Repo](https://github.com/orhanaydinn/Exxen_project.git)
+
+### 🔹 Object Tracking Algorithms
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/48f846b8-5f45-4135-9312-d049d7fcebea" width="600" alt="Object Tracking" />
+</div>
+- **Açıklama:** OpenCV kullanarak farklı nesne takip algoritmalarının karşılaştırılması.
+- **Teknolojiler:** Python, OpenCV
+- **Bağlantı:** [GitHub Repo](https://github.com/orhanaydinn/computer_vision/tree/7ae1a9770a8e43e11a238192c71c4a4a9bbedbab/4_openCV_object_tracking/2_other_tracking_algorithms)
+
+
+
+
+
+
+
+
+
+
+
 <!--
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
