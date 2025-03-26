@@ -36,7 +36,7 @@
 
 |<a href="https://github.com/orhanaydinn/Exxen_project.git"> EXXEN PROJECT </a>|<a href="https://github.com/orhanaydinn/Exxen_project.git"> EXXEN PROJECT </a>|
 | --------- | --------- | 
-![Image](https://github.com/user-attachments/assets/fabac975-af35-44e0-a76b-5a4e5df479bd)<h4 align="center">This project created with using <strong>HTML</strong> and <strong>CSS</strong>.</h4> <h4 align="center">Example for digital streaming platform which is included 2 different languages in interface.</h4>| ![Image](https://github.com/user-attachments/assets/48f846b8-5f45-4135-9312-d049d7fcebea)<h4 align="center">This project created with using openCV. This project was developed with openCV and python. Example for object detection with different kind of algorithm and calculate the accuracy.</h4> |
+![Image](https://github.com/user-attachments/assets/fabac975-af35-44e0-a76b-5a4e5df479bd)<h4 align="center">This project created with using <strong>HTML</strong> and <strong>CSS</strong>.</h4> <h4 align="center">Example for digital streaming platform which is included 2 different languages in interface.</h4>| ![Image](https://github.com/user-attachments/assets/48f846b8-5f45-4135-9312-d049d7fcebea)<h4 align="center">This project created with using openCV. </h4>|
 
 </div>
 
@@ -48,7 +48,7 @@
 ![Image](https://github.com/user-attachments/assets/48f846b8-5f45-4135-9312-d049d7fcebea)<h4 align="center">This project created with using openCV. This project was developed with openCV and python. Example for object detection with different kind of algorithm and calculate the accuracy.</h4> |![gif-1](https://github.com/user-attachments/assets/0469c798-35b4-4abf-b384-84971e8943fb)<h4 align="center">This project created with using HTML and CSS. This is an example for digital streaming platform which is included 2 different languages in interface.</h4>|
 
 
-
+This project was developed with openCV and python. Example for object detection with different kind of algorithm and calculate the accuracy.
 ![gif-1](https://github.com/user-attachments/assets/0469c798-35b4-4abf-b384-84971e8943fb)
 -->
 
