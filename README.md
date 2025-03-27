@@ -38,7 +38,7 @@
 |**[Exxen Project](https://github.com/orhanaydinn/Exxen_project.git)** <br> <br> <br> Example for digital streaming platform which is included 2 different languages in interface. | HTML - CSS | <img src="https://github.com/user-attachments/assets/fabac975-af35-44e0-a76b-5a4e5df479bd" width="350" height="250" alt="Exxen Project" /> |
 
 </div>
----
+
 
 
 
