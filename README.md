@@ -30,64 +30,12 @@
 
 <div align="center">
   <h2>🚀 My Projects</h2>
-
+</div>
 
   Project Demo       |Libraries and Technologies I use     |           Project Preview   
 |:--------------------------------------|:----------------------------------------|:----------------------------------------|
 |**[Object Tracking Algorithms](https://github.com/orhanaydinn/computer_vision/tree/7ae1a9770a8e43e11a238192c71c4a4a9bbedbab/4_openCV_object_tracking/2_other_tracking_algorithms)** <br> <br> <br>  Example for object detection with different kind of algorithm and calculate the accuracy. | Python - OpenCV | <img src="https://github.com/user-attachments/assets/48f846b8-5f45-4135-9312-d049d7fcebea" width="350" height="250" alt="Object Tracking" /> |
 |**[Exxen Project](https://github.com/orhanaydinn/Exxen_project.git)** <br> <br> <br> Example for digital streaming platform which is included 2 different languages in interface. | HTML - CSS | <img src="https://github.com/user-attachments/assets/fabac975-af35-44e0-a76b-5a4e5df479bd" width="350" height="250" alt="Exxen Project" /> |
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-  Project Demo       |Libraries and Technologies I use     |Project Preview   
-:-------------------------|-------------------------|-------------------------
-[Exxen Project](https://github.com/orhanaydinn/computer_vision/tree/7ae1a9770a8e43e11a238192c71c4a4a9bbedbab/4_openCV_object_tracking/2_other_tracking_algorithms) <h3>[Repo](https://github.com/orhanaydinn/computer_vision/tree/7ae1a9770a8e43e11a238192c71c4a4a9bbedbab/4_openCV_object_tracking/2_other_tracking_algorithms)</h3> | openCV Python |![Image](https://github.com/user-attachments/assets/48f846b8-5f45-4135-9312-d049d7fcebea)
-[Exxen Project](https://github.com/orhanaydinn/Exxen_project.git) <h3>[Repo](https://github.com/orhanaydinn/Exxen_project.git")</h3> | HTML CSS |![Image](https://github.com/user-attachments/assets/fabac975-af35-44e0-a76b-5a4e5df479bd)
-
--->
-
-</div>
-
-
-
-<!--
-|<h2> <a href="https://github.com/orhanaydinn/Exxen_project.git">Exxen Project</a> </h2> |<h2> Project Name 2  </h2>|
-| --------- | --------- |
-![Image](https://github.com/user-attachments/assets/48f846b8-5f45-4135-9312-d049d7fcebea)<h4 align="center">This project created with using openCV. This project was developed with openCV and python. Example for object detection with different kind of algorithm and calculate the accuracy.</h4> |![gif-1](https://github.com/user-attachments/assets/0469c798-35b4-4abf-b384-84971e8943fb)<h4 align="center">This project created with using HTML and CSS. This is an example for digital streaming platform which is included 2 different languages in interface.</h4>|
-
-
-
-![gif-1](https://github.com/user-attachments/assets/0469c798-35b4-4abf-b384-84971e8943fb)
-
-
-
-
-
-
-
-
-|<a href="https://github.com/orhanaydinn/Exxen_project.git"> EXXEN PROJECT </a>|<a href="https://github.com/orhanaydinn/Exxen_project.git"> EXXEN PROJECT </a>|
-| --------- | --------- | 
-![Image](https://github.com/user-attachments/assets/fabac975-af35-44e0-a76b-5a4e5df479bd)<h4 align="center">This project created with using <strong>HTML</strong> and <strong>CSS</strong>.</h4> <h4 align="center">Example for digital streaming platform which is included 2 different languages in interface.</h4>| ![Image](https://github.com/user-attachments/assets/48f846b8-5f45-4135-9312-d049d7fcebea)<h4 align="center">This project created with using openCV. This project was developed with openCV and python. Example for object detection with different kind of algorithm and calculate the accuracy.</h4>|
-
--->
-
-
 
 
 
