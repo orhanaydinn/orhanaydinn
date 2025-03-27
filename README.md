@@ -43,7 +43,6 @@
           <a href="https://github.com/orhanaydinn/Exxen_project.git" style="color:#58a6ff; text-decoration:none;">🔗 GitHub Repo</a>
         </div>
       </td>
-
       <td width="45%" valign="top">
         <div align="center" style="background:#1e1e1e; padding:20px; border-radius:10px; color:white; min-height:400px; display:flex; flex-direction:column; justify-content:space-between;">
           <h3>📌 Object Tracking Algorithms</h3>
