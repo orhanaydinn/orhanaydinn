@@ -28,12 +28,12 @@
 <br>
 
 ## My Favorite Projects 💻  
-
+<!-- 
 <div align="center" style="width:100%; padding:0; margin:0;">
   
   <table style="width:100%; border-spacing:0; border-collapse:collapse;">
     <tr>
-      <td width="60%" valign="top">
+      <td width="50%" valign="top">
         <div align="center" style="background:#1e1e1e; padding:20px; border-radius:10px; color:white; min-height:400px; display:flex; flex-direction:column; justify-content:space-between; width:100%;">
           <h3>📌 Exxen Project</h3>
           <img src="https://github.com/user-attachments/assets/fabac975-af35-44e0-a76b-5a4e5df479bd" width="100%" height="200px" style="border-radius:10px; object-fit:cover;" alt="Exxen Project" />
@@ -43,7 +43,7 @@
           <a href="https://github.com/orhanaydinn/Exxen_project.git" style="color:#58a6ff; text-decoration:none;">🔗 GitHub Repo</a>
         </div>
       </td>
-      <td width="60%" valign="top">
+      <td width="50%" valign="top">
         <div align="center" style="background:#1e1e1e; padding:20px; border-radius:10px; color:white; min-height:400px; display:flex; flex-direction:column; justify-content:space-between; width:100%;">
           <h3>📌 Object Tracking Algorithms</h3>
           <img src="https://github.com/user-attachments/assets/48f846b8-5f45-4135-9312-d049d7fcebea" width="100%" height="200px" style="border-radius:10px; object-fit:cover;" alt="Object Tracking" />
@@ -58,8 +58,12 @@
 
 </div>
 
+-->
 
-
+| Proje | Teknolojiler | Önizleme |
+|:-------------------------|:-------------------------|:-------------------------|
+| **[Exxen Project](https://github.com/orhanaydinn/Exxen_project.git)** <br> Dijital yayın platformu arayüzü örneği. | HTML, CSS | <img src="https://github.com/user-attachments/assets/fabac975-af35-44e0-a76b-5a4e5df479bd" width="300" alt="Exxen Project" /> |
+| **[Object Tracking Algorithms](https://github.com/orhanaydinn/computer_vision/tree/7ae1a9770a8e43e11a238192c71c4a4a9bbedbab/4_openCV_object_tracking/2_other_tracking_algorithms)** <br> OpenCV kullanarak farklı nesne takip algoritmalarının karşılaştırılması. | Python, OpenCV | <img src="https://github.com/user-attachments/assets/48f846b8-5f45-4135-9312-d049d7fcebea" width="300" alt="Object Tracking" /> |
 
 
 
