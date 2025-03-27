@@ -33,8 +33,8 @@
   
   <table>
     <tr>
-      <td width="45%">
-        <div align="center" style="background:#1e1e1e; padding:20px; border-radius:10px; color:white;">
+      <td width="45%" valign="top">
+        <div align="center" style="background:#1e1e1e; padding:20px; border-radius:10px; color:white; min-height:400px; display:flex; flex-direction:column; justify-content:space-between;">
           <h3>📌 Exxen Project</h3>
           <img src="https://github.com/user-attachments/assets/fabac975-af35-44e0-a76b-5a4e5df479bd" width="100%" height="200px" style="border-radius:10px; object-fit:cover;" alt="Exxen Project" />
           <p>Dijital yayın platformu arayüzü örneği.</p>
@@ -43,8 +43,9 @@
           <a href="https://github.com/orhanaydinn/Exxen_project.git" style="color:#58a6ff; text-decoration:none;">🔗 GitHub Repo</a>
         </div>
       </td>
-      <td width="45%">
-        <div align="center" style="background:#1e1e1e; padding:20px; border-radius:10px; color:white;">
+
+      <td width="45%" valign="top">
+        <div align="center" style="background:#1e1e1e; padding:20px; border-radius:10px; color:white; min-height:400px; display:flex; flex-direction:column; justify-content:space-between;">
           <h3>📌 Object Tracking Algorithms</h3>
           <img src="https://github.com/user-attachments/assets/48f846b8-5f45-4135-9312-d049d7fcebea" width="100%" height="200px" style="border-radius:10px; object-fit:cover;" alt="Object Tracking" />
           <p>OpenCV kullanarak farklı nesne takip algoritmalarının karşılaştırılması.</p>
@@ -57,6 +58,7 @@
   </table>
 
 </div>
+
 
 
 
