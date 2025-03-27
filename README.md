@@ -28,45 +28,13 @@
 <br>
 
 
-<!-- 
-<div align="center" style="width:100%; padding:0; margin:0;">
-  
-  <table style="width:100%; border-spacing:0; border-collapse:collapse;">
-    <tr>
-      <td width="50%" valign="top">
-        <div align="center" style="background:#1e1e1e; padding:20px; border-radius:10px; color:white; min-height:400px; display:flex; flex-direction:column; justify-content:space-between; width:100%;">
-          <h3>📌 Exxen Project</h3>
-          <img src="https://github.com/user-attachments/assets/fabac975-af35-44e0-a76b-5a4e5df479bd" width="100%" height="200px" style="border-radius:10px; object-fit:cover;" alt="Exxen Project" />
-          <p>Dijital yayın platformu arayüzü örneği.</p>
-          <p><strong>Teknolojiler:</strong> HTML, CSS</p>
-          <br>
-          <a href="https://github.com/orhanaydinn/Exxen_project.git" style="color:#58a6ff; text-decoration:none;">🔗 GitHub Repo</a>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <div align="center" style="background:#1e1e1e; padding:20px; border-radius:10px; color:white; min-height:400px; display:flex; flex-direction:column; justify-content:space-between; width:100%;">
-          <h3>📌 Object Tracking Algorithms</h3>
-          <img src="https://github.com/user-attachments/assets/48f846b8-5f45-4135-9312-d049d7fcebea" width="100%" height="200px" style="border-radius:10px; object-fit:cover;" alt="Object Tracking" />
-          <p>OpenCV kullanarak farklı nesne takip algoritmalarının karşılaştırılması.</p>
-          <p><strong>Teknolojiler:</strong> Python, OpenCV</p>
-          <br>
-          <a href="https://github.com/orhanaydinn/computer_vision/tree/7ae1a9770a8e43e11a238192c71c4a4a9bbedbab/4_openCV_object_tracking/2_other_tracking_algorithms" style="color:#58a6ff text-decoration:none;">🔗 GitHub Repo</a>
-        </div>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
--->
-
 <div align="center">
   <h2>🚀 My Projects</h2>
 </div>
 
-| Project | Technology | Önizleme |
+  Project Demo       |Libraries and Technologies I use     |Project Preview   
 |:--------------------------------------|:----------------------------------------|:----------------------------------------|
-| **[Object Tracking Algorithms](https://github.com/orhanaydinn/computer_vision/tree/7ae1a9770a8e43e11a238192c71c4a4a9bbedbab/4_openCV_object_tracking/2_other_tracking_algorithms)** <br> This project created with using openCV. This project was developed with openCV and python. Example for object detection with different kind of algorithm and calculate the accuracy. | Python, OpenCV | <img src="https://github.com/user-attachments/assets/48f846b8-5f45-4135-9312-d049d7fcebea" width="500" height="400" alt="Object Tracking" /> |
+| **[Object Tracking Algorithms](https://github.com/orhanaydinn/computer_vision/tree/7ae1a9770a8e43e11a238192c71c4a4a9bbedbab/4_openCV_object_tracking/2_other_tracking_algorithms)** <br> This project created with using openCV. This project was developed with openCV and python. Example for object detection with different kind of algorithm and calculate the accuracy. | Python, OpenCV | <img src="https://github.com/user-attachments/assets/48f846b8-5f45-4135-9312-d049d7fcebea" width="500" height="350" alt="Object Tracking" /> |
 | **[Exxen Project](https://github.com/orhanaydinn/Exxen_project.git)** <br> Example for digital streaming platform which is included 2 different languages in interface. | HTML, CSS | <img src="https://github.com/user-attachments/assets/fabac975-af35-44e0-a76b-5a4e5df479bd" width="500" height="400" alt="Exxen Project" /> |
 
 
