@@ -29,7 +29,7 @@
 
 
 <div align="center">
-  <h2>🚀 My Projects</h2>
+  <h2>My Projects</h2>
 </div>
 
   Project Demo       |Libraries and Technologies I use     |           Project Preview   
