@@ -34,8 +34,10 @@
 
   Project Demo       |Libraries and Technologies I use     |           Project Preview   
 |:--------------------------------------|:----------------------------------------|:----------------------------------------|
-|**[Object Tracking Algorithms](https://github.com/orhanaydinn/computer_vision_notes/tree/0dd7be2858f21659c0159782396025f837ba3b74/4_openCV_object_tracking/2_other_tracking_algorithms)** <br> <br> <br>  Example for object detection with different kind of algorithm and calculate the accuracy. | Python - OpenCV | <img src="https://github.com/user-attachments/assets/b883ed46-d632-4294-974e-aeae7e9e609b" width="350" height="250" alt="Object Tracking" /> |
-|**[Exxen Project](https://github.com/orhanaydinn/Exxen_project.git)** <br> <br> <br> Example for digital streaming platform which is included 2 different languages in interface. | HTML - CSS | <img src="https://github.com/user-attachments/assets/fabac975-af35-44e0-a76b-5a4e5df479bd" width="350" height="250" alt="Exxen Project" /> |
+
+**[real_time _digit_classifier(CNN-Based](https://github.com/orhanaydinn/computer_vision_notes/tree/8e5e508c8f9117971eef322bb7082757f7e361a1/5_CNN/2_real_time%20_digit_classifier(CNN-Based))** <br> <br> <br>  Example for real time number detection with deep learning CNN algorithm and calculate the accuracy. | Python - OpenCV - DeepLearning - CNN | <img src="https://github.com/user-attachments/assets/1e56778f-08b3-4781-8fd3-0691076a62af" width="350" height="225" alt="Object Tracking" /> |
+**[Object Tracking Algorithms](https://github.com/orhanaydinn/computer_vision_notes/tree/0dd7be2858f21659c0159782396025f837ba3b74/4_openCV_object_tracking/2_other_tracking_algorithms)** <br> <br> <br>  Example for object detection with different kind of algorithm and calculate the accuracy. | Python - OpenCV | <img src="https://github.com/user-attachments/assets/b883ed46-d632-4294-974e-aeae7e9e609b" width="350" height="225" alt="Object Tracking" /> |
+**[Exxen Project](https://github.com/orhanaydinn/Exxen_project.git)** <br> <br> <br> Example for digital streaming platform which is included 2 different languages in interface. | HTML - CSS | <img src="https://github.com/user-attachments/assets/fabac975-af35-44e0-a76b-5a4e5df479bd" width="350" height="225" alt="Exxen Project" /> |
 
 
 
