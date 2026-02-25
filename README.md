@@ -111,7 +111,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy-orhanaydinn.vercel.app/?username=orhanaydinn&theme=react&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=orhanaydinn&theme=react&no-frame=true&margin-w=10"/>
 
 </div>
 
