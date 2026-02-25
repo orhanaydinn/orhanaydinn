@@ -111,7 +111,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=orhanaydinn&theme=react&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=orhanaydinn&theme=react&no-frame=true&margin-w=10)](https://github.com/orhanaydinn/github-profile-trophy)
 
 </div>
 
