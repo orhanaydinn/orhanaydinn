@@ -111,19 +111,17 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=orhanaydinn&theme=react&no-frame=true&margin-w=10)](https://github.com/orhanaydinn/github-profile-trophy)
+<img src="https://streak-stats.demolab.com?user=orhanaydinn&theme=react&hide_border=true" height="150" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=orhanaydinn&color=blue&style=flat-square" />
 
 </div>
 
 <br>
 
 </br>
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=orhanaydinn&&style=flat-square" align="center" />
-</div>  
-  
 
 ###
 
