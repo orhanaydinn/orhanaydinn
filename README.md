@@ -20,11 +20,8 @@
 ###
 
 <div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=orhanaydinn&show_icons=true&theme=react&hide_border=true"/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orhanaydinn&layout=compact&theme=react&hide_border=true"/>
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=orhanaydinn&show_icons=true&theme=react&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=orhanaydinn&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 ###
