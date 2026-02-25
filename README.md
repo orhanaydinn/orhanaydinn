@@ -110,7 +110,9 @@
 ###
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=orhanaydinn&color=blue&style=flat-square"/>
+
+<img src="https://github-profile-trophy-orhanaydinn.vercel.app/?username=orhanaydinn&theme=react&no-frame=true&no-bg=true&margin-w=10"/>
+
 </div>
 
 <br>
