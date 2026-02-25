@@ -114,7 +114,12 @@
 <img src="https://streak-stats.demolab.com?user=orhanaydinn&theme=react&hide_border=true" height="150" />
 
 <br/>
+<br>
 
+</br>
+<br>
+
+</br>
 <img src="https://komarev.com/ghpvc/?username=orhanaydinn&color=blue&style=flat-square" />
 
 </div>
