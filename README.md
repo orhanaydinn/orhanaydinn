@@ -109,11 +109,7 @@
 
 ###
 
-<div align="center">
-
-<img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=orhanaydinn&theme=react&no-frame=true&margin-w=10"/>
-
-</div>
+<img src="https://senin-stats-vercel.app/api?username=orhanaydinn&show_icons=true&theme=react"/>
 
 <br>
 
