@@ -1,0 +1,14 @@
+UPLOAD INSTRUCTIONS
+
+Upload these files to the root of:
+https://github.com/orhanaydinn/orhanaydinn
+
+README.md
+header.svg
+assets/
+
+Keep your existing folder:
+profile-3d-contrib/profile-south-season.svg
+
+All project images and GIFs have been normalized to the same 800 × 450 canvas.
+This prevents SCARA or other portrait-oriented media from becoming taller than the other cards.

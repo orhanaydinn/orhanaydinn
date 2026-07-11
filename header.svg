@@ -1,0 +1,66 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FCFCFD"/>
+      <stop offset="0.45" stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#F5F7FB"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#5EEAD4"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-20%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="22" flood-color="#94A3B8" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+  <rect x="12" y="12" width="1176" height="316" rx="34" fill="url(#bg)" filter="url(#shadow)"/>
+  <circle cx="95" cy="12" r="155" fill="#BFDBFE" opacity="0.52"/>
+  <circle cx="900" cy="345" r="175" fill="#DDD6FE" opacity="0.45"/>
+  <circle cx="1120" cy="290" r="145" fill="#99F6E4" opacity="0.40"/>
+
+  <g opacity="0.35" fill="#93C5FD">
+    <circle cx="44" cy="240" r="2.3"/><circle cx="64" cy="240" r="2.3"/><circle cx="84" cy="240" r="2.3"/><circle cx="104" cy="240" r="2.3"/>
+    <circle cx="44" cy="260" r="2.3"/><circle cx="64" cy="260" r="2.3"/><circle cx="84" cy="260" r="2.3"/><circle cx="104" cy="260" r="2.3"/>
+    <circle cx="44" cy="280" r="2.3"/><circle cx="64" cy="280" r="2.3"/><circle cx="84" cy="280" r="2.3"/><circle cx="104" cy="280" r="2.3"/>
+    <circle cx="44" cy="300" r="2.3"/><circle cx="64" cy="300" r="2.3"/><circle cx="84" cy="300" r="2.3"/><circle cx="104" cy="300" r="2.3"/>
+  </g>
+
+  <g opacity="0.40" stroke="#60A5FA" stroke-width="2" fill="none">
+    <path d="M1045 90 C1080 45 1162 58 1165 125 C1168 178 1130 190 1130 232"/>
+    <path d="M1044 95 C1031 120 1028 150 1042 168 C1054 183 1073 180 1080 198"/>
+    <circle cx="1125" cy="132" r="24"/><circle cx="1125" cy="132" r="15"/><circle cx="1125" cy="132" r="7"/>
+    <path d="M1088 178 C1102 188 1114 190 1134 190"/>
+    <path d="M1104 198 L1104 242"/><path d="M1122 196 L1136 250"/>
+  </g>
+
+  <g opacity="0.45" stroke="#93C5FD" stroke-width="2" stroke-linecap="round">
+    <path d="M930 238 H1018 C1035 238 1035 218 1052 218 H1140"/>
+    <path d="M1010 270 H1078 C1094 270 1094 252 1110 252 H1165"/>
+    <circle cx="930" cy="238" r="5" fill="#93C5FD"/>
+    <circle cx="1010" cy="270" r="5" fill="#93C5FD"/>
+    <circle cx="1140" cy="218" r="4" fill="#93C5FD"/>
+  </g>
+
+  <g opacity="0.26" stroke="#38BDF8" stroke-width="2" fill="none">
+    <circle cx="850" cy="172" r="13"/><circle cx="930" cy="132" r="17"/><circle cx="974" cy="205" r="18"/>
+    <path d="M862 166 L915 140"/><path d="M940 146 L965 190"/><path d="M974 223 V248 H900"/>
+  </g>
+
+  <text x="100" y="138" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="72" font-weight="800">Orhan Aydin</text>
+  <text x="104" y="180" fill="#2563EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">Mechatronics Engineer</text>
+  <text x="360" y="180" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="600">|</text>
+  <text x="385" y="180" fill="#7C3AED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">MSc Artificial Intelligence &amp; Data Science</text>
+
+  <text x="104" y="230" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">Humanoid Robotics</text>
+  <circle cx="286" cy="224" r="4" fill="#60A5FA"/>
+  <text x="307" y="230" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">Robot Learning</text>
+  <circle cx="462" cy="224" r="4" fill="#A78BFA"/>
+  <text x="483" y="230" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">Embodied AI</text>
+  <circle cx="620" cy="224" r="4" fill="#5EEAD4"/>
+  <text x="642" y="230" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">Computer Vision</text>
+  <circle cx="812" cy="224" r="4" fill="#60A5FA"/>
+  <text x="834" y="230" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">LLM Agents</text>
+  <text x="104" y="274" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-style="italic">Building LLM-enabled humanoid robots and embodied AI systems.</text>
+  <rect x="104" y="296" width="250" height="4" rx="2" fill="url(#accent)"/>
+</svg>
