@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Orhan Aydin — Mechatronics Engineer, AI and Robotics" />
+  <img src="./header.png" width="100%" alt="Orhan Aydin — Mechatronics Engineer, AI and Robotics" />
 </p>
 
-<div align="center">
+## About Me
 
-### Mechatronics Engineer | MSc Data Science & Artificial Intelligence
+I am a Mechatronics Engineer working at the intersection of **robotics, artificial intelligence, computer vision, embedded systems and mechanical design**. My projects focus on developing complete engineering systems—from physical robot construction and low-level control to perception, robot learning and LLM-based decision-making.
 
-Building intelligent robotic systems across **mechanics, perception, control and AI**.
-
-<p>
+<p align="center">
   <a href="https://orhanaydinn.github.io">
     <img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
@@ -20,11 +18,13 @@ Building intelligent robotic systems across **mechanics, perception, control and
   </a>
 </p>
 
-</div>
-
 ---
 
+<div align="center">
+
 ## Featured Projects
+
+</div>
 
 <table>
 <tr>
@@ -146,7 +146,11 @@ Development activity and language usage overview
 
 ---
 
+<div align="center">
+
 ## Technical Stack
+
+</div>
 
 <table>
 <tr>

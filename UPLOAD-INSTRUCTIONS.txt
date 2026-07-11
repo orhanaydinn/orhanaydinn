@@ -4,7 +4,7 @@ Upload these files to the root of:
 https://github.com/orhanaydinn/orhanaydinn
 
 README.md
-header.svg
+header.png
 assets/
 
 Keep your existing folder:
