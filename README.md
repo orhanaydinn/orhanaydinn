@@ -4,7 +4,12 @@
 
 ## About Me
 
-I build end-to-end AI applications and intelligent robotic systems, combining **full-stack development, language-model training, computer vision and validated tool execution**. My projects span cloud-deployed applications on AWS and Azure, a language model trained from scratch, and a physical humanoid robot.
+I’m an **AI and Robotics Engineer** with a background in Mechatronics Engineering and an **MSc in Data Science and Artificial Intelligence from Bournemouth University, where I graduated with Distinction**. I enjoy building things and understanding how their different parts work together, whether that means developing an AI application or connecting software, perception and control in a physical system.
+
+My projects span **full-stack AI applications, language models, computer vision and robotics**. I’ve built tools for working with documents and automating workflows, **trained a language model from scratch**, and **developed a humanoid robot as part of my MSc thesis**. Across these projects, I particularly enjoy taking an idea through design, implementation and testing, then working through the details that make the complete system useful and reliable.
+
+Before my MSc, I worked in **industrial engineering**, focusing on mechanical design, automation and production reliability. That experience taught me to consider practical constraints, investigate problems carefully and measure the impact of a change. I now bring that approach to both AI and robotics, and I’m looking to join a team where I can contribute to meaningful projects, learn from experienced engineers and continue growing across software and intelligent systems.
+
 
 <p align="center"><strong>Applied AI · Language Models · Embodied AI · Robotics</strong></p>
 
