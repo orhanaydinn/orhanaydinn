@@ -133,7 +133,9 @@ SolidWorks · Arduino · CNC Shield · Processing · 3D Printing
 
 <h2 align="center">Let's Connect</h2>
 
-<table width="100%">
+<div align="center">
+
+<table align="center">
 <tr>
 <th width="33%">Portfolio</th>
 <th width="33%">LinkedIn</th>
@@ -146,3 +148,4 @@ SolidWorks · Arduino · CNC Shield · Processing · 3D Printing
 </tr>
 </table>
 
+</div>
