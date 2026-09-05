@@ -15,24 +15,9 @@ I build end-to-end AI applications and intelligent robotic systems, combining **
   <a href="mailto:orhanaydinmechatronic@gmail.com"><img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Orhan Aydin" /></a>
 </p>
 
-<h2 align="center">Education</h2>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-<h3>🎓 Bournemouth University</h3>
-<p><strong>MSc Data Science &amp;<br>Artificial Intelligence</strong></p>
-<p><strong>Distinction · 75.56%</strong></p>
-<p>United Kingdom · 2025–2026</p>
-</td>
-<td width="50%" align="center" valign="top">
-<h3>⚙️ Erciyes University</h3>
-<p><strong>BSc Mechatronics Engineering</strong></p>
-<p>Mechanical Design · Electronics · Control</p>
-<p>Turkey · 2016–2022</p>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/career-timeline.svg" width="100%" alt="Career timeline: Erciyes University BSc, engineering experience and Bournemouth University MSc with Distinction." />
+</p>
 
 <h2 align="center">Featured Projects</h2>
 
@@ -141,12 +126,6 @@ SolidWorks · Arduino · CNC Shield · Processing · 3D Printing
 </table>
 
 <h2 align="center">GitHub Activity</h2>
-
-<p align="center">
-  <a href="https://github.com/orhanaydinn?tab=overview">Contribution History</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/orhanaydinn?tab=repositories">Repositories</a>
-</p>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-south-season.svg" width="900" alt="GitHub contribution history and language distribution" />
