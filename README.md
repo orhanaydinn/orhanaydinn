@@ -30,7 +30,7 @@ Before my MSc, I worked in **industrial engineering**, focusing on mechanical de
 <tr>
 <td width="50%" valign="top">
 
-### [LLM-Enabled Humanoid Robot](https://orhanaydinn.github.io/projects/humanoid/)
+### [LLM-Enabled Humanoid Robot](https://github.com/orhanaydinn/oax_humanoid_robot)
 
 <a href="https://orhanaydinn.github.io/projects/humanoid/"><img src="./assets/humanoid-demo.gif" width="100%" alt="LLM-Enabled Humanoid Robot preview" /></a>
 
@@ -43,7 +43,7 @@ Python · PyTorch · OpenCV · Tool Calling · Embedded Control
 </td>
 <td width="50%" valign="top">
 
-### [AI Job Application Copilot](https://orhanaydinn.github.io/projects/ai-job-application-copilot/)
+### [AI Job Application Copilot](https://github.com/orhanaydinn/ai-job-application-copilot)
 
 <a href="https://orhanaydinn.github.io/projects/ai-job-application-copilot/"><img src="./assets/copilot.png" width="100%" alt="AI Job Application Copilot preview" /></a>
 
@@ -58,7 +58,7 @@ React · TypeScript · FastAPI · Azure OpenAI · Docker
 <tr>
 <td width="50%" valign="top">
 
-### [Enterprise AI Support Agent](https://orhanaydinn.github.io/projects/enterprise-ai-support-agent/)
+### [Enterprise AI Support Agent](https://github.com/orhanaydinn/enterprise-ai-support-agent)
 
 <a href="https://orhanaydinn.github.io/projects/enterprise-ai-support-agent/"><img src="./assets/enterprise-ai-support-agent.png" width="100%" alt="Enterprise AI Support Agent preview" /></a>
 
@@ -71,7 +71,7 @@ Amazon Bedrock · RAG · FastAPI · AWS Lambda · DynamoDB
 </td>
 <td width="50%" valign="top">
 
-### [OAX — Language Model Trained from Scratch](https://orhanaydinn.github.io/projects/oax-1b/)
+### [OAX — Language Model Trained from Scratch](https://github.com/orhanaydinn/oax_1B)
 
 <a href="https://orhanaydinn.github.io/projects/oax-1b/"><img src="./assets/oax_1b_llm.png" width="100%" alt="OAX — Language Model Trained from Scratch preview" /></a>
 
@@ -86,7 +86,7 @@ PyTorch · Transformers · LoRA · SFT · Tool Calling
 <tr>
 <td width="50%" valign="top">
 
-### [AI-Powered Multimodal RAG Assistant](https://orhanaydinn.github.io/projects/rag-assistant/)
+### [AI-Powered Multimodal RAG Assistant](https://github.com/orhanaydinn/qa_assistant)
 
 <a href="https://orhanaydinn.github.io/projects/rag-assistant/"><img src="./assets/rag-assistant.gif" width="100%" alt="AI-Powered Multimodal RAG Assistant preview" /></a>
 
@@ -94,7 +94,7 @@ Modular RAG application supporting semantic retrieval, OCR and question answerin
 
 Python · Streamlit · FAISS · Transformers · OCR
 
-[Case Study](https://orhanaydinn.github.io/projects/rag-assistant/) · [GitHub](https://github.com/orhanaydinn/qa_assistant)
+[Case Study](https://orhanaydinn.github.io/projects/rag-assistant/) · [GitHub](https://github.com/orhanaydinn/qa_assistant) · [Live Demo](https://orhanaydin-ai-asistant-v1.streamlit.app/)
 
 </td>
 <td width="50%" valign="top">
