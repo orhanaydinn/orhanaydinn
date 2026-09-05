@@ -1,256 +1,120 @@
 <p align="center">
-  <img src="./header.png" width="100%" alt="Orhan Aydin — Mechatronics Engineer, AI and Robotics" />
+  <img src="./assets/header.png" width="100%" alt="Orhan Aydin — AI and Robotics" />
 </p>
 
 ## About Me
 
-I am a Mechatronics Engineer working at the intersection of **robotics, artificial intelligence, computer vision, embedded systems and mechanical design**. My projects focus on developing complete engineering systems—from physical robot construction and low-level control to perception, robot learning and LLM-based decision-making.
+I build end-to-end AI applications and intelligent robotic systems, combining **full-stack development, language-model training, computer vision and validated tool execution**. My projects span cloud-deployed applications on AWS and Azure, a language model trained from scratch, and a physical humanoid robot.
 
-<p align="center">
-  <a href="https://orhanaydinn.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/orhan-aydin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://huggingface.co/orhanaydinn">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111111" alt="Hugging Face" />
-  </a>
-</p>
+**MSc Data Science & Artificial Intelligence — Distinction, Bournemouth University**  
+Applied AI · Language Models · Embodied AI · Robotics
 
----
-
-<div align="center">
+[Portfolio](https://orhanaydinn.github.io/) · [LinkedIn](https://www.linkedin.com/in/orhan-aydin/) · [Hugging Face](https://huggingface.co/orhanaydinn) · [Email](mailto:orhanaydinmechatronic@gmail.com)
 
 ## Featured Projects
-
-</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [LLM-Enabled Humanoid Robot](https://github.com/orhanaydinn/oax_humanoid_robot)
+### [LLM-Enabled Humanoid Robot](https://orhanaydinn.github.io/projects/humanoid/)
 
-<p align="center">
-  <img src="./assets/humanoid-demo.gif" width="100%" alt="LLM-enabled humanoid robot demo" />
-</p>
+<a href="https://orhanaydinn.github.io/projects/humanoid/"><img src="./assets/humanoid-demo.gif" width="100%" alt="LLM-Enabled Humanoid Robot preview" /></a>
 
-Custom fixed-base humanoid robot integrating mechanical design, embedded control, computer vision, inverse kinematics and LLM-based task execution.
+An MSc thesis system powered by OAX, a language model I pre-trained from scratch and fine-tuned for structured tool calling. Integrates visual perception, system state and Planner–Controller validation with a custom physical humanoid robot.
 
-`Python` `OpenCV` `Arduino` `LLM` `IK/FK` `3D Printing`
+Python · PyTorch · OpenCV · Tool Calling · Embedded Control
 
 [Case Study](https://orhanaydinn.github.io/projects/humanoid/) · [GitHub](https://github.com/orhanaydinn/oax_humanoid_robot)
 
 </td>
 <td width="50%" valign="top">
 
-### [OAX-1B: Custom LLM for Robot Tool Calling](https://huggingface.co/orhanaydinn/OAX-1B-Humanoid)
+### [AI Job Application Copilot](https://orhanaydinn.github.io/projects/ai-job-application-copilot/)
 
-<p align="center">
-  <img src="./assets/oax_1b_llm.png" width="100%" alt="OAX-1B custom robot language model" />
-</p>
+<a href="https://orhanaydinn.github.io/projects/ai-job-application-copilot/"><img src="./assets/copilot.png" width="100%" alt="AI Job Application Copilot preview" /></a>
 
-A custom 1B-parameter LLaMA-style language model pre-trained from scratch and fine-tuned for structured JSON robot tool calling, clarification and safe action generation.
+Full-stack AI application for CV-to-job analysis, evidence-backed matches, tailored CVs and cover letters, editable previews and DOCX export. Deployed on Azure.
 
-`PyTorch` `Transformers` `LoRA` `SFT` `LLM`
+React · TypeScript · FastAPI · Azure OpenAI · Docker
+
+[Case Study](https://orhanaydinn.github.io/projects/ai-job-application-copilot/) · [GitHub](https://github.com/orhanaydinn/ai-job-application-copilot) · [Live Demo](https://ai-job-copilot.lemonmeadow-e3bba0f9.francecentral.azurecontainerapps.io/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Enterprise AI Support Agent](https://orhanaydinn.github.io/projects/enterprise-ai-support-agent/)
+
+<a href="https://orhanaydinn.github.io/projects/enterprise-ai-support-agent/"><img src="./assets/enterprise-ai-support-agent.png" width="100%" alt="Enterprise AI Support Agent preview" /></a>
+
+A cloud-deployed support agent combining policy retrieval, deterministic business rules, controlled tool routing and execution traces on AWS.
+
+Amazon Bedrock · RAG · FastAPI · AWS Lambda · DynamoDB
+
+[Case Study](https://orhanaydinn.github.io/projects/enterprise-ai-support-agent/) · [GitHub](https://github.com/orhanaydinn/enterprise-ai-support-agent) · [Live Demo](https://d1qo68bktehjcu.cloudfront.net)
+
+</td>
+<td width="50%" valign="top">
+
+### [OAX — Language Model Trained from Scratch](https://orhanaydinn.github.io/projects/oax-1b/)
+
+<a href="https://orhanaydinn.github.io/projects/oax-1b/"><img src="./assets/oax_1b_llm.png" width="100%" alt="OAX — Language Model Trained from Scratch preview" /></a>
+
+A custom LLaMA-style language model pre-trained from scratch and fine-tuned with LoRA for structured JSON tool calls, clarification and humanoid interaction.
+
+PyTorch · Transformers · LoRA · SFT · Tool Calling
 
 [Case Study](https://orhanaydinn.github.io/projects/oax-1b/) · [Hugging Face](https://huggingface.co/orhanaydinn/OAX-1B-Humanoid)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### [AI-Powered Conversational Assistant](https://github.com/orhanaydinn/qa_assistant)
+### [AI-Powered Multimodal RAG Assistant](https://orhanaydinn.github.io/projects/rag-assistant/)
 
-<p align="center">
-  <img src="./assets/rag-assistant.gif" width="100%" alt="AI-powered conversational assistant demo" />
-</p>
+<a href="https://orhanaydinn.github.io/projects/rag-assistant/"><img src="./assets/rag-assistant.gif" width="100%" alt="AI-Powered Multimodal RAG Assistant preview" /></a>
 
-Multimodal RAG system supporting semantic search, OCR and question answering from PDFs, images and web sources through an interactive Streamlit interface.
+Modular RAG application supporting semantic retrieval, OCR and question answering from PDFs, images and web sources through a Streamlit interface.
 
-`Python` `Streamlit` `FAISS` `LangChain` `OCR`
+Python · Streamlit · FAISS · Transformers · OCR
 
 [Case Study](https://orhanaydinn.github.io/projects/rag-assistant/) · [GitHub](https://github.com/orhanaydinn/qa_assistant)
 
 </td>
 <td width="50%" valign="top">
 
-### [Brain Tumor & Alzheimer Classification](https://github.com/orhanaydinn/brainTumor_Alzheimer_Prediction)
+### [SCARA Robot Design, Manufacturing & Control](https://orhanaydinn.github.io/projects/scara/)
 
-<p align="center">
-  <img src="./assets/brain-mri.gif" width="100%" alt="MRI brain disease classification demo" />
-</p>
+<a href="https://orhanaydinn.github.io/projects/scara/"><img src="./assets/scara_robot.gif" width="100%" alt="SCARA Robot Design, Manufacturing &amp; Control preview" /></a>
 
-Deep-learning pipeline for MRI-based brain-tumor and Alzheimer classification, transfer learning and visual analysis of annotated medical images.
+BSc dissertation covering a custom SCARA robot from CAD and 3D printing to Arduino-based control and a Processing interface.
 
-`Python` `TensorFlow` `OpenCV` `CNN` `Transfer Learning`
-
-[Case Study](https://orhanaydinn.github.io/projects/brain-mri/) · [GitHub](https://github.com/orhanaydinn/brainTumor_Alzheimer_Prediction)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [SCARA Robot Design, Manufacturing & Control](https://github.com/orhanaydinn/scara-robot-design-and-control)
-
-<p align="center">
-  <img src="./assets/scara_robot.gif" width="100%" alt="SCARA robot demonstration" />
-</p>
-
-BSc dissertation project covering the full development of a custom SCARA robot from CAD and 3D printing to Arduino-based control and a Processing interface.
-
-`SolidWorks` `Arduino` `CNC Shield` `Processing` `3D Printing`
+SolidWorks · Arduino · CNC Shield · Processing · 3D Printing
 
 [Case Study](https://orhanaydinn.github.io/projects/scara/) · [GitHub](https://github.com/orhanaydinn/scara-robot-design-and-control)
 
 </td>
-<td width="50%" valign="top">
-
-### [Bionic Hand Prototype](https://github.com/orhanaydinn/bionic-hand-prototype)
-
-<p align="center">
-  <img src="./assets/bionic-hand.jpg" width="100%" alt="Bionic hand prototype" />
-</p>
-
-Custom bionic-hand prototype with servo-based actuation, Arduino control and a homemade flex-sensor input concept using conductive wire and anti-static material.
-
-`Arduino` `ESP32` `Flex Sensors` `Servo Control` `3D Printing`
-
-[Case Study](https://orhanaydinn.github.io/projects/bionic-hand/) · [GitHub](https://github.com/orhanaydinn/bionic-hand-prototype)
-
-</td>
 </tr>
 </table>
 
----
+## Technical Focus
 
-<div align="center">
+- **Applied AI & Full-Stack:** Python, FastAPI, React, TypeScript, REST APIs, Pydantic, Docker, AWS, Azure.
+- **LLMs, RAG & Agents:** PyTorch, Transformers, Hugging Face, pre-training, LoRA/PEFT, FAISS, structured tool calling, evaluation.
+- **Robotics & Intelligent Systems:** OpenCV, YOLO, embedded control, sensor integration, Arduino, STM32, ESP32.
+- **Mechanical Design & Robot Learning:** SolidWorks, AutoCAD, Siemens NX, 3D printing, MuJoCo, behaviour cloning, reinforcement learning, IK/FK.
 
 ## GitHub Activity
 
-Development activity and language usage overview
+[View recent GitHub activity](https://github.com/orhanaydinn?tab=overview) · [Explore repositories](https://github.com/orhanaydinn?tab=repositories)
 
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=orhanaydinn&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Orhan Aydin GitHub statistics" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=orhanaydinn&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=default&hide_border=true" height="165" alt="Most used programming languages" />
+<p align="center">
+  <img src="./profile-3d-contrib/profile-south-season.svg" width="100%" alt="GitHub contribution history, generated by the profile workflow" />
 </p>
-
-<img src="./profile-3d-contrib/profile-south-season.svg" width="100%" alt="3D GitHub contribution graph" />
-
-</div>
-
----
-
-<div align="center">
-
-## Technical Stack
-
-</div>
-
-<table>
-<tr>
-<td width="20%" valign="top">
-
-### Robotics & Simulation
-
-MuJoCo  
-Robot Manipulation  
-Behaviour Cloning  
-Reinforcement Learning  
-IK / FK  
-Motion Planning
-
-</td>
-<td width="20%" valign="top">
-
-### AI & Computer Vision
-
-PyTorch  
-TensorFlow  
-OpenCV  
-YOLO  
-Transformers  
-Hugging Face  
-PEFT / LoRA
-
-</td>
-<td width="20%" valign="top">
-
-### Embedded Systems
-
-Arduino  
-STM32  
-ESP32  
-Raspberry Pi  
-Motor Control  
-Sensor Integration  
-Serial Communication
-
-</td>
-<td width="20%" valign="top">
-
-### Mechanical Design
-
-SolidWorks  
-AutoCAD  
-Siemens NX  
-3D Printing  
-Prototyping  
-Design for Manufacture
-
-</td>
-<td width="20%" valign="top">
-
-### Programming & Tools
-
-Python  
-C++  
-SQL  
-Git  
-Docker  
-Linux  
-Streamlit
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
 
 ## Let's Connect
 
-<table width="100%">
-<tr>
-<td width="33.33%" align="center" valign="middle">
-
-### Portfolio
-[orhanaydinn.github.io](https://orhanaydinn.github.io)
-
-</td>
-<td width="33.33%" align="center" valign="middle">
-
-### LinkedIn
-[linkedin.com/in/orhan-aydin](https://www.linkedin.com/in/orhan-aydin/)
-
-</td>
-<td width="33.33%" align="center" valign="middle">
-
-### Email
-[orhanaydinmechatronic@gmail.com](mailto:orhanaydinmechatronic@gmail.com)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-Thanks for visiting.
-
-</div>
+[Portfolio](https://orhanaydinn.github.io/) · [LinkedIn](https://www.linkedin.com/in/orhan-aydin/) · [Email](mailto:orhanaydinmechatronic@gmail.com)
